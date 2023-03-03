@@ -3,5 +3,6 @@ spring:
     name: spring-cloud-config-client
     
 user:
+  username: Tom
   role: test789
   gender: female
