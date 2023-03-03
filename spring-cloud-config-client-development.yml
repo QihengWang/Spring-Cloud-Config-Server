@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: spring-cloud-config-client
+    
+user:
+  role: test123
+  gender: female
